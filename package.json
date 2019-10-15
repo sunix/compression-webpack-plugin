@@ -1,5 +1,5 @@
 {
-  "name": "compression-webpack-plugin",
+  "name": "@theia/compression-webpack-plugin",
   "version": "3.0.0",
   "description": "Prepare compressed versions of assets to serve them with Content-Encoding",
   "license": "MIT",
